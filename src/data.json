@@ -1,0 +1,39 @@
+[
+	{
+		"datakey" : 65,
+		"kbd" : "A",
+		"type" : "clap"	 
+	}, {
+		"datakey" : 83,
+		"kbd" : "S",
+		"type" : "hihat"	 
+	}, {
+		"datakey" : 68,
+		"kbd" : "D",
+		"type" : "kick"	 
+	}, {
+		"datakey" : 70,
+		"kbd" : "F",
+		"type" : "openhat"	 
+	}, {
+		"datakey" : 71,
+		"kbd" : "G",
+		"type" : "boom"	 
+	}, {
+		"datakey" : 72,
+		"kbd" : "H",
+		"type" : "ride"	 
+	}, {
+		"datakey" : 74,
+		"kbd" : "J",
+		"type" : "snare"	 
+	}, {
+		"datakey" : 75,
+		"kbd" : "K",
+		"type" : "tom"	 
+	}, {
+		"datakey" : 76,
+		"kbd" : "L",
+		"type" : "tink"	 
+	}
+]
